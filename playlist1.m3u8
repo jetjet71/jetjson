@@ -487,39 +487,39 @@ plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https%3A%2F%2F
 plugin://plugin.video.madtitansports/sportjetextractors/play?urls=https%3A%2F%2Fservice-stitcher-ipv4.clusters.pluto.tv%2Fstitch%2Fhls%2Fchannel%2F5b64a245a202b3337f09e51d%2Fmaster.m3u8%3FadvertisingId%3D%26appName%3Dweb%26appVersion%3D5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba%26architecture%3D%26buildVersion%3D%26clientTime%3D%26deviceDNT%3D0%26deviceId%3D40e83ae2-6312-4f18-b4b8-12abd40b18ed%26deviceLat%3D33.6647%26deviceLon%3D-117.1743%26deviceMake%3DChrome%26deviceModel%3DChrome%26deviceType%3Dweb%26deviceVersion%3D80.0.3987.149%26includeExtendedEvents%3Dfalse%26marketingRegion%3DUS%26sid%3De8444f4c-3e38-11ec-ad72-dca632884a02%26userId%3D
 
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS",NFL REDZONE
-plugin://plugin.video.madtitansports/direct_search/search_dialog/Redzone
+plugin.video.madtitansports/direct_search/search_dialog/Redzone
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS",PPV |[COLORyellow] PPV[/COLOR]
-plugin://plugin.video.madtitansports/direct_search/search_dialog/PPV
+plugin.video.madtitansports/direct_search/search_dialog/PPV
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS",SPORTS| SEARCH
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/*
+plugin.video.madtitansports/sportjetextractors/search_dialog/*
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181214/70x70/pistons_wbg.png",NBA | [COLORorange]Detroit Pistons vs. Brooklyn Nets[/COLOR]| 11/05 04:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Pistons
+plugin.video.madtitansports/sportjetextractors/search_dialog/Pistons
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181217/70x70/magic_wbg.png",NBA | [COLORorange]Orlando Magic vs. San Antonio Spurs[/COLOR]| 11/05 04:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Magic
+plugin.video.madtitansports/sportjetextractors/search_dialog/Magic
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181221/70x70/wizards_wbg.png",NBA | [COLORorange]Washington Wizards vs. Memphis Grizzlies[/COLOR]| 11/05 04:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Wizards
+plugin.video.madtitansports/sportjetextractors/search_dialog/Wizards
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181214/70x70/bucks_wbg.png",NBA | [COLORorange]Milwaukee Bucks vs. New York Knicks[/COLOR]| 11/05 04:30 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Bucks
+plugin.video.madtitansports/sportjetextractors/search_dialog/Bucks
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181221/70x70/raptors_wbgs.png",NBA | [COLORorange]Toronto Raptors vs. Cleveland Cavaliers[/COLOR]| 11/05 04:30 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Raptors
+plugin.video.madtitansports/sportjetextractors/search_dialog/Raptors
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181226/70x70/timberwolves_wbg.png",NBA | [COLORorange]Minnesota Timberwolves vs. Los Angeles Clippers[/COLOR]| 11/05 05:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Timberwolves
+plugin.video.madtitansports/sportjetextractors/search_dialog/Timberwolves
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20191016/70x70/warriors_wbg.png",NBA | [COLORorange]Golden State Warriors vs. New Orleans Pelicans[/COLOR]| 11/05 07:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Warriors
+plugin.video.madtitansports/sportjetextractors/search_dialog/Warriors
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181221/70x70/trailblazers_wbgs.png",NBA | [COLORorange]Portland Trail Blazers vs. Indiana Pacers[/COLOR]| 11/05 07:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Trail+Blazers
+plugin.video.madtitansports/sportjetextractors/search_dialog/Trail+Blazers
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181220/70x70/kings_wbg.png",NBA | [COLORorange]Sacramento Kings vs. Charlotte Hornets[/COLOR]| 11/05 07:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Kings
+plugin.video.madtitansports/sportjetextractors/search_dialog/Kings
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/20181126/nhl/70x70/jets_wbg.png",NHL | [COLORorange]Winnipeg Jets vs. Chicago Blackhawks[/COLOR]| 11/05 05:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Jets
+plugin.video.madtitansports/sportjetextractors/search_dialog/Jets
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nhl/20200508/70x70/oilers_wbg.png",NHL | [COLORorange]Edmonton Oilers vs. New York Rangers[/COLOR]| 11/05 06:30 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Oilers
+plugin.video.madtitansports/sportjetextractors/search_dialog/Oilers
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/20190924/nhl/70x70/canucks_wbg.png",NHL | [COLORorange]Vancouver Canucks vs. Nashville Predators[/COLOR]| 11/05 07:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Canucks
+plugin.video.madtitansports/sportjetextractors/search_dialog/Canucks
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/20181122/nhl/70x70/ducks_wbg.png",NHL | [COLORorange]Anaheim Ducks vs. Arizona Coyotes[/COLOR]| 11/05 07:00 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Ducks
+plugin.video.madtitansports/sportjetextractors/search_dialog/Ducks
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nhl/20200508/70x70/kings_wbg.png",NHL | [COLORorange]Los Angeles Kings vs. New Jersey Devils[/COLOR]| 11/05 07:30 PM
-plugin://plugin.video.madtitansports/sportjetextractors/search_dialog/Kings
+plugin.video.madtitansports/sportjetextractors/search_dialog/Kings
 
 #EXTINF:-1 group-title="JET MAD LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/ncaaf/20181213/70x70/dartmouth_wbg.png",NCAAF | [COLORorange]Dartmouth Big Green vs. Princeton Tigers[/COLOR]| 11/05 03:00 PM
 plugin://plugin.video.madtitansports/sportjetextractors/play?urls=http%3A%2F%2Fyoursports.stream%2Fing%2Fespnu%2A%2A%2Ahttp%3A%2F%2Fcbd46b77.cdn.cms.movetv.com%2Fcms%2Fapi%2Fchannels%2Fb716a5f8c9d34028973c560dda470329%2Fschedule%2Fnow%2Fplayback_info.qvt%28%5BCOLORdodgerblue%5DSL%7C+%5BCOLORwhite%5DESPNU+%5B%2FCOLOR%5D+-+%5BCOLORdodgerblue%5DDIRECT%7CSL%5B%2FCOLOR%5D%29%2A%2A%2Ahttps%3A%2F%2Fustvgo.tv%2Fespnu%2F%28%5BCOLORyellow%5DUSGO%5B%2FCOLOR%5DESPNU+-+%5BCOLORyellow%5DDIRECT%7CUSTVGO%5B%2FCOLOR%5D%29%2A%2A%2Ahttps%3A%2F%2Fgma2.blab.email%2Fespnu.m3u8%28%5BCOLORdeeppink%5DGMA%7C+%5B%2FCOLOR%5DESPN+U+-+%5BCOLORsalmon%5DDIRECT%7CSP.SITES%5B%2FCOLOR%5D%29%2A%2A%2Ahttp%3A%2F%2Fstream2.grandma.fit%2Fespnu.m3u8%28%5BCOLORdeeppink%5DGMA%7C+%5B%2FCOLOR%5DESPN+U+-+%5BCOLORsalmon%5DDIRECT%7CSP.SITES%5B%2FCOLOR%5D%29
