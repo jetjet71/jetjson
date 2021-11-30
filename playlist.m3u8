@@ -462,33 +462,33 @@ plugin://plugin.video.jetsport/direct_search/search_dialog/Redzone
 plugin://plugin.video.jetsport/direct_search/search_dialog/PPV
 #EXTINF:-1 group-title="JET LIVE SPORTS",SPORTS| SEARCH
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/*
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NFL | Washington Football Team vs. Seattle Seahawks| 11/29 05:15 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nfl/20210729/70x70/washington_wbg.png",NFL| [COLORorange]Washington Football Team vs. Seattle Seahawks[/COLOR]|11/29 05:15 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nfl/20210729/70x70/washington_wbg.png",NFL| [COLORorange]Washington Football Team vs. Seattle Seahawks[/COLOR]|11/29 05:15 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Football+Team
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Philadelphia 76ers vs. Orlando Magic| 11/29 04:00 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181217/70x70/76ers_wbg.png",NBA| [COLORorange]Philadelphia 76ers vs. Orlando Magic[/COLOR]|11/29 04:00 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181217/70x70/76ers_wbg.png",NBA| [COLORorange]Philadelphia 76ers vs. Orlando Magic[/COLOR]|11/29 04:00 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/76ers
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Miami Heat vs. Denver Nuggets| 11/29 04:30 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181218/70x70/heat_wbgs.png",NBA| [COLORorange]Miami Heat vs. Denver Nuggets[/COLOR]|11/29 04:30 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181218/70x70/heat_wbgs.png",NBA| [COLORorange]Miami Heat vs. Denver Nuggets[/COLOR]|11/29 04:30 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Heat
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Chicago Bulls vs. Charlotte Hornets| 11/29 05:00 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181212/70x70/bulls_wbgs.png",NBA| [COLORorange]Chicago Bulls vs. Charlotte Hornets[/COLOR]|11/29 05:00 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181212/70x70/bulls_wbgs.png",NBA| [COLORorange]Chicago Bulls vs. Charlotte Hornets[/COLOR]|11/29 05:00 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Bulls
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Houston Rockets vs. Oklahoma City Thunder| 11/29 05:00 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20191016/70x70/rockets_wbgs.png",NBA| [COLORorange]Houston Rockets vs. Oklahoma City Thunder[/COLOR]|11/29 05:00 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20191016/70x70/rockets_wbgs.png",NBA| [COLORorange]Houston Rockets vs. Oklahoma City Thunder[/COLOR]|11/29 05:00 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Rockets
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Minnesota Timberwolves vs. Indiana Pacers| 11/29 05:00 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181226/70x70/timberwolves_wbg.png",NBA| [COLORorange]Minnesota Timberwolves vs. Indiana Pacers[/COLOR]|11/29 05:00 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181226/70x70/timberwolves_wbg.png",NBA| [COLORorange]Minnesota Timberwolves vs. Indiana Pacers[/COLOR]|11/29 05:00 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Timberwolves
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Dallas Mavericks vs. Cleveland Cavaliers| 11/29 05:30 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181214/70x70/mavericks_wbg.png",NBA| [COLORorange]Dallas Mavericks vs. Cleveland Cavaliers[/COLOR]|11/29 05:30 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181214/70x70/mavericks_wbg.png",NBA| [COLORorange]Dallas Mavericks vs. Cleveland Cavaliers[/COLOR]|11/29 05:30 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Mavericks
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | San Antonio Spurs vs. Washington Wizards| 11/29 05:30 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181221/70x70/spurs_wbg.png",NBA| [COLORorange]San Antonio Spurs vs. Washington Wizards[/COLOR]|11/29 05:30 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181221/70x70/spurs_wbg.png",NBA| [COLORorange]San Antonio Spurs vs. Washington Wizards[/COLOR]|11/29 05:30 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Spurs
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Utah Jazz vs. Portland Trail Blazers| 11/29 06:00 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181226/70x70/jazz_wbg.png",NBA| [COLORorange]Utah Jazz vs. Portland Trail Blazers[/COLOR]|11/29 06:00 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181226/70x70/jazz_wbg.png",NBA| [COLORorange]Utah Jazz vs. Portland Trail Blazers[/COLOR]|11/29 06:00 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Jazz
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NBA | Los Angeles Clippers vs. New Orleans Pelicans| 11/29 07:30 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181218/70x70/clippers_wbg.png",NBA| [COLORorange]Los Angeles Clippers vs. New Orleans Pelicans[/COLOR]|11/29 07:30 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nba/20181218/70x70/clippers_wbg.png",NBA| [COLORorange]Los Angeles Clippers vs. New Orleans Pelicans[/COLOR]|11/29 07:30 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Clippers
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NHL | Buffalo Sabres vs. Seattle Kraken| 11/29 04:00 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nhl/20210311/70x70/buffalo-sabres_wbg.png",NHL| [COLORorange]Buffalo Sabres vs. Seattle Kraken[/COLOR]|11/29 04:00 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nhl/20210311/70x70/buffalo-sabres_wbg.png",NHL| [COLORorange]Buffalo Sabres vs. Seattle Kraken[/COLOR]|11/29 04:00 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Sabres
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NHL | Montreal Canadiens vs. Vancouver Canucks| 11/29 04:30 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/20181126/nhl/70x70/canadiens_wbg.png",NHL| [COLORorange]Montreal Canadiens vs. Vancouver Canucks[/COLOR]|11/29 04:30 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/20181126/nhl/70x70/canadiens_wbg.png",NHL| [COLORorange]Montreal Canadiens vs. Vancouver Canucks[/COLOR]|11/29 04:30 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Canadiens
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NHL | Winnipeg Jets vs. Arizona Coyotes| 11/29 04:30 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/20181126/nhl/70x70/jets_wbg.png",NHL| [COLORorange]Winnipeg Jets vs. Arizona Coyotes[/COLOR]|11/29 04:30 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/20181126/nhl/70x70/jets_wbg.png",NHL| [COLORorange]Winnipeg Jets vs. Arizona Coyotes[/COLOR]|11/29 04:30 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Jets
-#EXTINF:-1 group-title="JET LIVE SPORTS" tv-name= "NHL | Calgary Flames vs. Pittsburgh Penguins| 11/29 06:00 PM" tvg-logo="https://s.yimg.com/cv/apiv2/default/nhl/20210311/70x70/calgary-flames_wbg.png",NHL| [COLORorange]Calgary Flames vs. Pittsburgh Penguins[/COLOR]|11/29 06:00 PM| 
+#EXTINF:-1 group-title="JET LIVE SPORTS" tvg-logo="https://s.yimg.com/cv/apiv2/default/nhl/20210311/70x70/calgary-flames_wbg.png",NHL| [COLORorange]Calgary Flames vs. Pittsburgh Penguins[/COLOR]|11/29 06:00 PM| 
 plugin://plugin.video.jetsport/sportjetextractors/search_dialog/Flames
 
 
